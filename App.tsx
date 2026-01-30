@@ -190,7 +190,7 @@ const App: React.FC = () => {
                   Jelajahi <span className="text-brand-red">Puncak</span> <br className="hidden md:block"/> Tertinggi.
                 </h1>
                 <p className="text-slate-500 text-sm md:text-xl font-medium tracking-tight max-w-2xl">
-                  Sistem reservasi ekspedisi otomatis. Cepat, aman, dan terpercaya untuk petualangan Nusantara.
+                  Sistem reservasi pendakian otomatis. Cepat, aman, dan terpercaya untuk petualangan Nusantara.
                 </p>
               </div>
 
@@ -328,7 +328,7 @@ const App: React.FC = () => {
         isSending={isSending} 
         isSuccess={isSuccess} 
         successId={lastReg?.id} 
-        bankInfo={{ bankName: "BANK BCA", accountNumber: "8691 2345 67", accountName: "JEJAK LANGKAH ADVENTURE" }} 
+        bankInfo={{ bankName: "BANK BRI", accountNumber: "570401009559504", accountName: "ILHAM FADHILAH" }} 
       />
     </div>
   );
