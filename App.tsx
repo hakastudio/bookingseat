@@ -18,7 +18,7 @@ const SETTINGS_KEY = 'jejak_langkah_admin_settings';
 const DEFAULT_SETTINGS: AdminSettings = {
   googleScriptUrl: '', 
   spreadsheetId: '',   
-  adminPhone: '+62 812-3456-7890',
+  adminPhone: '+62 877-6640-1498',
   adminEmail: 'jejaklangkah.nusantara.id@gmail.com'
 };
 
